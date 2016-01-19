@@ -22,4 +22,12 @@ Microsoft Outlook 2013
 7. In your main window you now should have a new button group with 2 buttons 
 ![Screenshot](screenshots/buttons.png)
 
-8. Test it out!
+8. Make sure your Outlook 2013 security settings are enabled to run macros. Click on the **File** tab, choose **Outlook Options** to open the Outlook Options dialog box, and then click **Trust Center**.
+
+9. Click **Trust Center Settings**, and then the **Macro Settings** option on the left.
+
+10. Select **Enable All Macros**. You can choose another option here if you want more security enabled.
+
+11. Restart Outlook for the configuration change to take effect
+
+12. Test it out!
