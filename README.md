@@ -31,3 +31,7 @@ Microsoft Outlook 2013
 11. Restart Outlook for the configuration change to take effect
 
 12. Test it out!
+
+####References
+- [Getting starting with VBA in Outlook](https://msdn.microsoft.com/en-us/library/ee814736.aspx)
+- [Reply to all with attachments](http://www.slipstick.com/outlook/email/reply-replyall-attachments/)
